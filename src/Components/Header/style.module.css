@@ -1,0 +1,10 @@
+.header-wrapper {
+  position: relative;
+}
+.header-title {
+  position: absolute;
+  left: calc(50% - 46.865px);
+  font-size: 30px;
+  font-weight: 500;
+  top: 10px;
+}
